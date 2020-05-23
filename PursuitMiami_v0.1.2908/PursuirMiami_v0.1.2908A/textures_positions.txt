@@ -1,0 +1,13 @@
+road_hq = 523
+road_lines = 535
+road = 503
+road_sides_hq_up = 503
+road_sides_hq_dow = 590
+bush_field = 440
+sky = 0
+sun = 126
+city_back = 337
+city = 366
+palms = 365
+clouds = 143
+car = 492

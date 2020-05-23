@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\PursuitMiami_v0.1.2607A\main.cpp(37,86): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\PursuitMiami_v0.1.2607A\main.cpp(37,40): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\PursuitMiami_v0.1.2607A\main.cpp(44,86): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\PursuitMiami_v0.1.2607A\main.cpp(44,40): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  PursuitMiami_v0.1.2607A.vcxproj -> C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\Debug\PursuitMiami_v0.1.2607A.exe

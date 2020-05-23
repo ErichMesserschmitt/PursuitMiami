@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\PursuitMiami_v0.1.2607A\main.cpp(28,1): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\PursuitMiami_v0.1.2607A\main.cpp(32,1): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\PursuitMiami_v0.1.2607A\main.cpp(34,69): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bvovc\source\repos\PursuitMiami_v0.1.2607A\PursuitMiami_v0.1.2607A\main.cpp(51): error C4716:  'MainWindow::OnUserUpdate': must return a value

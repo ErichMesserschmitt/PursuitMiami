@@ -1,0 +1,12 @@
+﻿  Window.cpp
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\carsexample.h(145,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\carsexample.h(147,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\Window.cpp(48,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\Window.cpp(48,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\Window.cpp(55,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\Window.cpp(55,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\Window.cpp(229,15): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\Window.cpp(237,48): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\Window.cpp(238,64): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\PursuirMiami_v0.1.2908A\Window.cpp(238,26): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  PursuirMiami_v0.1.2908A.vcxproj -> C:\Users\bvovc\source\repos\PursuirMiami_v0.1.2908A\Debug\PursuirMiami_v0.1.2908A.exe
